@@ -23,10 +23,9 @@ class Solution:
         # return type: String
 
         # TODO: Write code below to return a string with the solution to the prompt
-        if self == "Hello World!":
+        if self == "Hello World!" or string == "Hello World!":
             return "Hello World!"
-        else:
-            return ""
+
         pass
 
 def main():
