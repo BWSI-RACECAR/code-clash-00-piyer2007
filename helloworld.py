@@ -23,7 +23,7 @@ class Solution:
         # return type: String
 
         # TODO: Write code below to return a string with the solution to the prompt
-        if self == "Hello World!" or string == "Hello World!":
+        if string == "Hello World!":
             return "Hello World!"
 
         pass
